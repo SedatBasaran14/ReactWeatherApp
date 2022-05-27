@@ -8,7 +8,7 @@
 
 ```
 $ git clone https://github.com/SedatBasaran14/ReactWeatherApp.git
-$ cd cv
+$ cd weather-app
 $ npm install
 $ npm start
 ```
